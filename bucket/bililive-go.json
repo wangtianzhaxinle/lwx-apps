@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/hr3lxphr6j/bililive-go/releases/download/v0.7.33/bililive-windows-amd64.zip",
-            "hash": "543cdf48bd8eb494714184fbad9c821d5371f153c88ee93892a1d1838f486bc6",
+            "hash": "2",
             "bin": [
                 [
                     "bililive-windows-amd64.exe",
